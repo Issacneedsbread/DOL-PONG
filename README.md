@@ -9,3 +9,6 @@ PLEASE TAKE NOTE that
 4. Please contact me if you have any questions, if you want to use this with live dolphins, or if you have found any problems in the code.
 
 PLEASE AND THANK YOU 
+
+contact info
+issac24arm@gmail.com
