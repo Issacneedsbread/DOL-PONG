@@ -1,6 +1,9 @@
 # DOL-PONG
 Pong for dolphins and people
 
+it works by using the dolphin's echoloctation to make the bar go up and down
+use a underwater mic for this of course
+
 PLEASE TAKE NOTE that
 
 1. this is more of a work in progress for things in the future.
